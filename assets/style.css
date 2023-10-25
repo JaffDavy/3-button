@@ -7,5 +7,10 @@ body{
     width: 80%;
     margin: auto;
     background-color: pink;
-
+}
+.button1{
+    height: 100px;
+    width: 80%;
+    margin: auto;
+    background-color: red;
 }
