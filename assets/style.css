@@ -2,3 +2,10 @@ body{
     background-color: darkslateblue;
     color: white;
 }
+.button{
+    height: 100px;
+    width: 80%;
+    margin: auto;
+    background-color: pink;
+
+}
